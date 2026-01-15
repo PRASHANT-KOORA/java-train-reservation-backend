@@ -19,3 +19,15 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+out/
+gen/
+
+# Log files
+*.log
+
+# Windows specific
+Thumbs.db
